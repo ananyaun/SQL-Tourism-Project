@@ -1,2 +1,2 @@
-# SQL-Tourism-Project
-SQL scripts for Travels &amp; Tourism project (user, tours, bookings, queries)
+# Travel-Management-System
+php mysql based travel management system with bootstrap
